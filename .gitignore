@@ -39,3 +39,4 @@ Thumbs.db
 *.csproj
 obj/
 bin/
+*.cache
