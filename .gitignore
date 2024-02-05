@@ -40,3 +40,4 @@ Thumbs.db
 obj/
 bin/
 *.cache
+*.json
